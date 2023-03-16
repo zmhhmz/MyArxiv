@@ -3,7 +3,7 @@ limit_days = 14
 cache_url = "https://zmhhmz.github.io/MyArxiv/cache.json"
 
 [[sources]]
-limit = 150
+limit = 300
 category = "cs.CV"
 title = "Computer Vision and Pattern Recognition"
 
