@@ -1,6 +1,8 @@
-let titles_type = ["Survey", "Review", "Overview"];
+let titles_type = ["Survey", "Review", "Overview","Framework"];
 let titles_model = ["Attention"];
-let titles_method = ["Gaussian","Process","Segmentation","Interactive","Continual","Incremental","Normalization"];
+let titles_method = ["Gaussian","Process","Segmentation","Interactive",
+                     "Continual","Incremental","Normalization","Equivar","Weak","Parameter",
+                     "Efficient","Fourier"];
 let titles =  titles_model + titles_method + titles_type;
 let authors_array = ["Yann LeCun", "Geoffrey Hinton", "Yoshua Bengio"];
 
