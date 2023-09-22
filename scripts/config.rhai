@@ -2,7 +2,7 @@ let titles_type = ["Survey", "Review", "Overview"];
 let titles_model = ["Attention","Diffus"];
 let titles_method = ["Gaussian","Process","Segmentation","Interactive",
                      "Continual","Incremental","Normalization","Equivar","Weak","Parameter",
-                     "Efficient","Fourier","Variation","Video","Light","Lite","kernel","PDE"];
+                     "Efficient","Fourier","Variation","Video","Light","Lite","kernel","PDE","Upsample","Upsampling","Unpooling","Deconvolution"];
 let titles =  titles_model + titles_method + titles_type;
 let authors_array = ["Yann LeCun", "Geoffrey Hinton", "Yoshua Bengio", "Kaiming He", "Jian Sun", "Deyu Meng", "Lei Zhang"];
 
